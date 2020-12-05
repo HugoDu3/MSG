@@ -1,0 +1,16 @@
+Prefix: '' 
+
+MsgHelp:
+ - ' '
+ - '&e/msg [Joueur] [Message]'
+ - ' '
+ReplyHelp:
+ - ' '
+ - '&e/r [Message]'
+ - ' '
+ 
+DontReply: '&cTu ne peux pas répondre, car personne ne t''a écrit.'
+PlayerOffline: '&c%target est hors-ligne!'
+NoMessage: '&cVeuillez entrez un message.'
+For: '&8Moi &7➔ &c%target &6➤&7 %msg'
+From: '&c%player &7➔ &8Moi &6➤&7 %msg'
